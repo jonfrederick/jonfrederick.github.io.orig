@@ -4,14 +4,12 @@ I am an IT professional with 15+ years of experience implementing and administer
 
 # Experience
 
-## 2014 - Present
-### Northeastern University Khoury Systems
-**Director - Information Technology**
+## Director - Information Technology - Northeastern University Khoury Systems
+*2014 - Present*
 As the Director of IT, I manage Khoury Systems group – a team of five individuals that take great pride in creating and administering the state-of-the-art computing and networking infrastructure crucial to our College’s success. Our College’s infrastructure supports a 2300+ user population including faculty, staff and students. Our computing environment is optimized for the teaching and research needs of the College and as a result we run many of our own core services. I thoroughly enjoy the evolving challenges that are presented to my team by Khoury faculty and students. We have the opportunity to work directly with the Khoury community as we address challenges both big and small on a daily basis.
 
-## 2007 - 2014
-### Tufts University CS & ECE Systems
-**Senior Systems Administrator**
+## Senior Systems Administrator - Tufts University CS & ECE Systems
+*2007 - 2014*
 My experience as a Senior Systems Administrator for the CS & ECE departments at Tufts University, I have had the opportunity to facilitate learning and education through providing systems implementation and support to students, faculty, and researchers. Working directly with each of these groups of users is ever evolving and is a continuous challenge that I truly enjoy. Supporting the CS & ECE departments at Tufts has enabled me plan and implement a wide variety of applications and services in a highly adaptable manner.
 
 - Collaborate directly with Faculty, Researchers, and Students to implement solutions based on a variety of requirements for courses and research.
@@ -22,16 +20,14 @@ My experience as a Senior Systems Administrator for the CS & ECE departments at 
 - Migrated from flat imaging to modular deployment utilizing Windows Deployment Services and group policy to deliver operating systems and software.
 - Assist in the management of Red Hat Enterprise Linux computing environment including LDAP, CUPS, and MySQL in addition to NetApp storage, Juniper SSL VPN appliance, and DNS & DHCP.
 
-## 2004 - 2007
-### Arrow International, Inc.
-**IT Technician**
+## IT Technician - Arrow International, Inc.
+*2004 - 2007*
 - Provided IT support to the research and development, manufacturing, and field support departments of the Cardiac Care Division.
 - Managed IT infrastructure for entire satellite office – Active Directory domain, storage, backups, desktop deployment, network, phone, and voicemail.
 - Implemented software development tools such as Telelogic DOORS to support software design and development for the AutoCAT intra-aortic balloon pump device.
 
-## 2003 - 2004
-### Patriot Bank
-**Network Administrator**
+## **Network Administrator** - Patriot Bank
+*2003 - 2004*
 - Managed desktop and Point of Sale infrastructure for primary location and 30+ branch locations.
 - Assisted in Cisco VoiP deployment across entire organization.
 - Participated in the planning and installation of IT systems in new branch office construction.

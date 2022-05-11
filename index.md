@@ -6,12 +6,12 @@ I am an IT professional with 15+ years of experience implementing and administer
 
 ## 2014 - Present
 ### Northeastern University Khoury Systems
-** Director - Information Technology **
+**Director - Information Technology**
 As the Director of IT, I manage Khoury Systems group – a team of five individuals that take great pride in creating and administering the state-of-the-art computing and networking infrastructure crucial to our College’s success. Our College’s infrastructure supports a 2300+ user population including faculty, staff and students. Our computing environment is optimized for the teaching and research needs of the College and as a result we run many of our own core services. I thoroughly enjoy the evolving challenges that are presented to my team by Khoury faculty and students. We have the opportunity to work directly with the Khoury community as we address challenges both big and small on a daily basis.
 
 ## 2007 - 2014
 ### Tufts University CS & ECE Systems
-** Senior Systems Administrator **
+**Senior Systems Administrator**
 My experience as a Senior Systems Administrator for the CS & ECE departments at Tufts University, I have had the opportunity to facilitate learning and education through providing systems implementation and support to students, faculty, and researchers. Working directly with each of these groups of users is ever evolving and is a continuous challenge that I truly enjoy. Supporting the CS & ECE departments at Tufts has enabled me plan and implement a wide variety of applications and services in a highly adaptable manner.
 
 - Collaborate directly with Faculty, Researchers, and Students to implement solutions based on a variety of requirements for courses and research.
@@ -24,14 +24,14 @@ My experience as a Senior Systems Administrator for the CS & ECE departments at 
 
 ## 2004 - 2007
 ### Arrow International, Inc.
-** IT Technician **
+**IT Technician**
 - Provided IT support to the research and development, manufacturing, and field support departments of the Cardiac Care Division.
 - Managed IT infrastructure for entire satellite office – Active Directory domain, storage, backups, desktop deployment, network, phone, and voicemail.
 - Implemented software development tools such as Telelogic DOORS to support software design and development for the AutoCAT intra-aortic balloon pump device.
 
 ## 2003 - 2004
 ### Patriot Bank
-** Network Administrator **
+**Network Administrator**
 - Managed desktop and Point of Sale infrastructure for primary location and 30+ branch locations.
 - Assisted in Cisco VoiP deployment across entire organization.
 - Participated in the planning and installation of IT systems in new branch office construction.
@@ -39,7 +39,8 @@ My experience as a Senior Systems Administrator for the CS & ECE departments at 
 # Education
 ## 2011 - 2013
 ### Tufts University Gordon Institute
-** M.S. - Engineering Management **
+**M.S. - Engineering Management**
+
 Topics covered included:
 
 - Project Management
@@ -62,7 +63,7 @@ EMC VMAX 10K Strategic Plan – Developed a market strategy for a struggling EMC
 
 ## 2005 - 2008
 ### Boston University
-** M.S. - Computer Information Systems **
+**M.S. - Computer Information Systems**
 Topics covered included:
 
 - IT Strategy and Management
@@ -78,7 +79,7 @@ Topics covered included:
 
 ## 2000 - 2004
 ### Pennsylvania State University
-** B.S. - Information Sciences and Technology **
+**B.S. - Information Sciences and Technology**
 # Portfolio
 
 ### Tufts CS & ECE Data Center Efficiency Project
